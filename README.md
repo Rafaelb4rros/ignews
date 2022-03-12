@@ -53,7 +53,7 @@ yarn dev
 
 # :closed_book: License
 
-Released in 2022
+Released in 2021
 This project is under a license [MIT](./LICENSE).
 
 Made with 💜 by [Rafael Barros](https://github.com/Rafaelb4rros) 🚀
