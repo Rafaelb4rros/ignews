@@ -1,10 +1,4 @@
 <p align="center">
-   <img src=".github/docs/images/logo.svg" width="350"/>
-</p>
-
-<br />
-
-<p align="center">
    <img src=".github/docs/images/homepage.png" width="600"/>
    <img src=".github/docs/images/postpreview.png" width="600"/>
    <img src=".github/docs/images/postspage.png" width="600"/>
